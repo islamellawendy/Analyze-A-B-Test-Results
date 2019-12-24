@@ -15,4 +15,4 @@ I practiced timestamp regression through weekdays and weekends categories (welco
 ### Conclusions
 We fail to reject the null hypothesis as there is no significant evidence of the new page converting better than the old page.
 ## Structure of the reporistory
-YOu will find the html and ipynb formats of the project done (will post a summary report notebook later on), and the supporting files used.
+You will find the html and ipynb formats of the project done (will post a summary report notebook later on), and the supporting files used.
