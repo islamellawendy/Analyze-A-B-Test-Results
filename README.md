@@ -6,7 +6,7 @@ An e-commerce company is looking to implement a new page, they have gathered dat
 ## Summary of Findings
 Initially I used A/B testing to see if the new page fared better or not. I used the following hypothesis testing.
 
-$$H_0: p_{new} - p_{old} <= 0$$ 
+```$$H_0: p_{new} - p_{old} <= 0$$```
 
 $$H_1: p_{new} - p_{old} > 0$$
 
